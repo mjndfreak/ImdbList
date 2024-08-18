@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/bin/Debug/net8.0/ImdbList
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/bin/Debug/net8.0/ImdbList.deps.json
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/bin/Debug/net8.0/ImdbList.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/bin/Debug/net8.0/ImdbList.dll
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/bin/Debug/net8.0/ImdbList.pdb
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ImdbList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ImdbList.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ImdbList.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ImdbList.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ImdbList.dll
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/refint/ImdbList.dll
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ImdbList.pdb
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ImdbList.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/ImdbList/ImdbList/obj/Debug/net8.0/ref/ImdbList.dll
